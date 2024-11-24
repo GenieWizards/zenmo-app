@@ -1,1 +1,1 @@
-# inance-management-app
+# finance-management-app
